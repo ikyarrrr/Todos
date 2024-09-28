@@ -13,3 +13,11 @@ Flow:
 1. Select a Date: Choose a date from the calendar.
 2. View/Add Tasks: View tasks for that specific day or add new ones.
 3. Manage Tasks: Mark tasks as complete or delete them once done.
+this is the signup page
+![IMG-20240928-WA0005](https://github.com/user-attachments/assets/ed54000d-3a40-4ebc-a728-94cefa8a091c)
+this is the login page
+![IMG-20240928-WA0004](https://github.com/user-attachments/assets/bf66252f-73e0-446d-ac33-334ac8528a7f)
+this is the task page to add/remove tasks
+![IMG-20240928-WA0003](https://github.com/user-attachments/assets/2a51d743-4715-426b-915c-83722df907ac)
+this is the login credentials in mongodb(the backend  part)
+![IMG-20240928-WA0002](https://github.com/user-attachments/assets/87bbd3ee-f222-413c-a1f0-fd1bd163839e)
